@@ -1,0 +1,7 @@
+
+.DS_Store
+src/gateware/src/.settings/com.sigasi.hdt.vhdl.Vhdl.prefs
+*.ipynb
+*.xml
+*.prefs
+src/gateware/src/.project
